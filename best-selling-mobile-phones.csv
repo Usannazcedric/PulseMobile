@@ -1,77 +1,78 @@
-manufacturer,model,smartphone,year,units_sold_m,price
-Apple,iPhone 6 and iPhone 6 Plus,Yes,2014,224.0,699€
-Apple,iPhone 6S and iPhone 6S Plus,Yes,2015,174.1,749€
-Apple,iPhone 5S,Yes,2013,164.5,649€
-Apple,iPhone 7 and iPhone 7 Plus,Yes,2016,159.9,769€
-Apple,"iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max",Yes,2019,159.2,809€
-Apple,"iPhone XR, iPhone XS and iPhone XS Max",Yes,2018,151.1,849€
-Nokia,6600,Yes,2003,150.0,500€
-Nokia,5230,Yes,2009,150.0,200€
-Apple,iPhone 5,Yes,2012,146.2,649€
-Apple,iPhone 8 and iPhone 8 Plus,Yes,2017,124.7,699€
-Samsung,Galaxy S III and Galaxy S III Mini,Yes,2012,70.0,599€
-Samsung,Galaxy S4,Yes,2013,70.0,649€
-Apple,iPhone X,Yes,2017,63.0,999€
-Apple,iPhone 4S,Yes,2011,60.0,649€
-Samsung,Galaxy S7 and Galaxy S7 edge,Yes,2016,55.0,669€
-Apple,iPhone 4,Yes,2010,50.0,599€
-Samsung,Galaxy S6 and Galaxy S6 edge,Yes,2015,45.0,699€
-Nokia,N70 (N72/N73),Yes,2005,45.0,400€
-Samsung,Galaxy S8 and Galaxy S8+,Yes,2017,41.0,799€
-Samsung,Galaxy S II,Yes,2011,40.0,649€
-Samsung,"Galaxy S10, Galaxy S10+ and Galaxy S10e",Yes,2019,37.0,899€
-Samsung,Galaxy S9 and Galaxy S9+,Yes,2018,35.4,859€
-Apple,iPhone 3GS,Yes,2009,35.0,599€
-Huawei,"P20, P20 Pro and P20 Lite",Yes,2018,32.0,649€
-Samsung,Galaxy A10,Yes,2019,30.3,199€
-Samsung,Galaxy Note II,Yes,2012,30.0,649€
-Xiaomi,Redmi Note 8 and Redmi Note 8 Pro,Yes,2019,30.0,200€
-Samsung,"Galaxy S20, Galaxy S20+ and Galaxy S20 Ultra",Yes,2020,28.0,999€
-Samsung,Galaxy S,Yes,2010,25.0,599€
-Samsung,Galaxy Grand Prime Plus,Yes,2016,24.2,179€
-Samsung,Galaxy A50,Yes,2019,24.2,349€
-Apple,iPhone SE (2nd generation),Yes,2020,24.2,479€
-Samsung,Galaxy A51,Yes,2019,23.2,379€
-Samsung,Galaxy A20,Yes,2019,23.1,219€
-Xiaomi,Redmi Note 7 and Redmi Note 7 Pro,Yes,2019,20.0,250€
-Huawei,P30 and P30 Pro,Yes,2019,20.0,899€
-Samsung,Galaxy A21s,Yes,2020,19.4,199€
-Huawei,Mate 10 and Mate 10 Pro,Yes,2017,17.0,699€
-Huawei,Mate 20 and Mate 20 Pro,Yes,2018,17.0,899€
-Samsung,Galaxy A01,Yes,2019,16.9,149€
-HTC,Thunderbolt,Yes,2011,16.0,249€
-Huawei,Mate 9,Yes,2016,15.8,599€
-Samsung,Galaxy A11,Yes,2020,15.3,179€
-Samsung,Galaxy J2 Core,Yes,2018,15.2,99€
-Nokia,5800 XpressMusic,Yes,2008,15.0,299€
-Nokia,E71,Yes,2008,15.0,350€
-Research In Motion (RIM),BlackBerry Pearl,Yes,2006,15.0,249€
-Xiaomi,Redmi Note 9 Pro,Yes,2020,15.0,270€
-Samsung,"Galaxy S21, Galaxy S21+ and Galaxy S21 Ultra",Yes,2021,13.5,849€
-Motorola,Droid Bionic,Yes,2011,13.0,299€
-Huawei,Mate 30 and Mate 30 Pro,Yes,2019,12.0,1099€
-Nokia,N95,Yes,2007,10.0,599€
-Samsung,Galaxy Note,Yes,2011,10.0,699€
-Xiaomi,Mi 2,Yes,2012,10.0,279€
-Samsung,Galaxy Note 3,Yes,2013,10.0,749€
-LG,G3,Yes,2014,10.0,549€
-Samsung,Galaxy Note 8,Yes,2017,10.0,899€
-Xiaomi,Redmi 6A,Yes,2019,10.0,99€
-Oppo,A5,Yes,2019,9.7,249€
-Samsung,Galaxy Note 9,Yes,2018,9.6,999€
-Samsung,Galaxy A30,Yes,2019,9.2,249€
-Xiaomi,Redmi 8A,Yes,2019,7.3,129€
-Oppo,F1 Plus,Yes,2016,7.0,300€
-Xiaomi,Redmi 8,Yes,2019,6.8,150€
-Samsung,Galaxy J4+,Yes,2018,6.4,169€
-Apple,iPhone,Yes,2007,6.0,499€
-Samsung,Galaxy J6+,Yes,2018,4.9,179€
-Samsung,Galaxy Note 4,Yes,2014,4.5,769€
-Samsung,Galaxy A10s,Yes,2019,3.9,169€
-Samsung,Galaxy A30s,Yes,2019,3.4,219€
-Nokia,N-Gage,Yes,2003,3.0,300€
-LG,G2,Yes,2013,3.0,199€
-LeTV,LeEco Le 1s,Yes,2016,3.0,249€
-Google,Pixel and Pixel XL,Yes,2016,2.1,769€
-Palm,Centro,Yes,2007,2.0,199€
-Nokia,N97,Yes,2009,2.0,699€
+best-selling-mobile-phones
+manufacturer;model;smartphone;year;units_sold_m;price
+Apple;iPhone 6 and iPhone 6 Plus;Yes;2014;224.0;699
+Apple;iPhone 6S and iPhone 6S Plus;Yes;2015;174.1;749
+Apple;iPhone 5S;Yes;2013;164.5;649
+Apple;iPhone 7 and iPhone 7 Plus;Yes;2016;159.9;769
+Apple;iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max;Yes;2019;159.2;809
+Apple;iPhone XR, iPhone XS and iPhone XS Max;Yes;2018;151.1;849
+Nokia;6600;Yes;2003;150.0;500
+Nokia;5230;Yes;2009;150.0;200
+Apple;iPhone 5;Yes;2012;146.2;649
+Apple;iPhone 8 and iPhone 8 Plus;Yes;2017;124.7;699
+Samsung;Galaxy S III and Galaxy S III Mini;Yes;2012;70.0;599
+Samsung;Galaxy S4;Yes;2013;70.0;649
+Apple;iPhone X;Yes;2017;63.0;999
+Apple;iPhone 4S;Yes;2011;60.0;649
+Samsung;Galaxy S7 and Galaxy S7 edge;Yes;2016;55.0;669
+Apple;iPhone 4;Yes;2010;50.0;599
+Samsung;Galaxy S6 and Galaxy S6 edge;Yes;2015;45.0;699
+Nokia;N70 (N72/N73);Yes;2005;45.0;400
+Samsung;Galaxy S8 and Galaxy S8+;Yes;2017;41.0;799
+Samsung;Galaxy S II;Yes;2011;40.0;649
+Samsung;Galaxy S10, Galaxy S10+ and Galaxy S10e;Yes;2019;37.0;899
+Samsung;Galaxy S9 and Galaxy S9+;Yes;2018;35.4;859
+Apple;iPhone 3GS;Yes;2009;35.0;599
+Huawei;P20, P20 Pro and P20 Lite;Yes;2018;32.0;649
+Samsung;Galaxy A10;Yes;2019;30.3;199
+Samsung;Galaxy Note II;Yes;2012;30.0;649
+Xiaomi;Redmi Note 8 and Redmi Note 8 Pro;Yes;2019;30.0;200
+Samsung;Galaxy S20, Galaxy S20+ and Galaxy S20 Ultra;Yes;2020;28.0;999
+Samsung;Galaxy S;Yes;2010;25.0;599
+Samsung;Galaxy Grand Prime Plus;Yes;2016;24.2;179
+Samsung;Galaxy A50;Yes;2019;24.2;349
+Apple;iPhone SE (2nd generation);Yes;2020;24.2;479
+Samsung;Galaxy A51;Yes;2019;23.2;379
+Samsung;Galaxy A20;Yes;2019;23.1;219
+Xiaomi;Redmi Note 7 and Redmi Note 7 Pro;Yes;2019;20.0;250
+Huawei;P30 and P30 Pro;Yes;2019;20.0;899
+Samsung;Galaxy A21s;Yes;2020;19.4;199
+Huawei;Mate 10 and Mate 10 Pro;Yes;2017;17.0;699
+Huawei;Mate 20 and Mate 20 Pro;Yes;2018;17.0;899
+Samsung;Galaxy A01;Yes;2019;16.9;149
+HTC;Thunderbolt;Yes;2011;16.0;249
+Huawei;Mate 9;Yes;2016;15.8;599
+Samsung;Galaxy A11;Yes;2020;15.3;179
+Samsung;Galaxy J2 Core;Yes;2018;15.2;99
+Nokia;5800 XpressMusic;Yes;2008;15.0;299
+Nokia;E71;Yes;2008;15.0;350
+Research In Motion (RIM);BlackBerry Pearl;Yes;2006;15.0;249
+Xiaomi;Redmi Note 9 Pro;Yes;2020;15.0;270
+Samsung;Galaxy S21, Galaxy S21+ and Galaxy S21 Ultra;Yes;2021;13.5;849
+Motorola;Droid Bionic;Yes;2011;13.0;299
+Huawei;Mate 30 and Mate 30 Pro;Yes;2019;12.0;1099
+Nokia;N95;Yes;2007;10.0;599
+Samsung;Galaxy Note;Yes;2011;10.0;699
+Xiaomi;Mi 2;Yes;2012;10.0;279
+Samsung;Galaxy Note 3;Yes;2013;10.0;749
+LG;G3;Yes;2014;10.0;549
+Samsung;Galaxy Note 8;Yes;2017;10.0;899
+Xiaomi;Redmi 6A;Yes;2019;10.0;99
+Oppo;A5;Yes;2019;9.7;249
+Samsung;Galaxy Note 9;Yes;2018;9.6;999
+Samsung;Galaxy A30;Yes;2019;9.2;249
+Xiaomi;Redmi 8A;Yes;2019;7.3;129
+Oppo;F1 Plus;Yes;2016;7.0;300
+Xiaomi;Redmi 8;Yes;2019;6.8;150
+Samsung;Galaxy J4+;Yes;2018;6.4;169
+Apple;iPhone;Yes;2007;6.0;499
+Samsung;Galaxy J6+;Yes;2018;4.9;179
+Samsung;Galaxy Note 4;Yes;2014;4.5;769
+Samsung;Galaxy A10s;Yes;2019;3.9;169
+Samsung;Galaxy A30s;Yes;2019;3.4;219
+Nokia;N-Gage;Yes;2003;3.0;300
+LG;G2;Yes;2013;3.0;199
+LeTV;LeEco Le 1s;Yes;2016;3.0;249
+Google;Pixel and Pixel XL;Yes;2016;2.1;769
+Palm;Centro;Yes;2007;2.0;199
+Nokia;N97;Yes;2009;2.0;699
