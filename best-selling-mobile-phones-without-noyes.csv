@@ -1,0 +1,113 @@
+best-selling-mobile-phones
+manufacturer;model;form;smartphone;year;units_sold_m
+Nokia;1100;Bar;FeaturePhone;2003;250
+Nokia;1110;Bar;FeaturePhone;2005;247.5
+Apple;iPhone 6 and iPhone 6 Plus;Touchscreen;SmartPhone;2014;224
+Nokia;105 (2013), 105 (2015);Bar;FeaturePhone;2013;200
+Apple;iPhone 6S and iPhone 6S Plus;Touchscreen;SmartPhone;2015;174.1
+Apple;iPhone 5S;Touchscreen;SmartPhone;2013;164.5
+Nokia;3210;Bar;FeaturePhone;1999;161
+Apple;iPhone 7 and iPhone 7 Plus;Touchscreen;SmartPhone;2016;159.9
+Apple;iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max;Touchscreen;SmartPhone;2019;159.2
+Apple;iPhone XR, iPhone XS and iPhone XS Max;Touchscreen;SmartPhone;2018;151.1
+Nokia;6600;Bar;SmartPhone;2003;150
+Nokia;1200;Bar;FeaturePhone;2007;150
+Nokia;5230;Touchscreen;SmartPhone;2009;150
+Samsung;E1100;Bar;FeaturePhone;2009;150
+Apple;iPhone 5;Touchscreen;SmartPhone;2012;146.2
+Nokia;2600 (2610/2626/2630);Bar;FeaturePhone;2004;135
+Motorola;RAZR V3;Flip phone;FeaturePhone;2004;130
+Nokia;1600 (1650/1661);Bar;FeaturePhone;2005;130
+Nokia;3310 (3330);Bar;FeaturePhone;2000;126
+Apple;iPhone 8 and iPhone 8 Plus;Touchscreen;SmartPhone;2017;124.7
+Nokia;1208 (1209);Bar;FeaturePhone;2007;100
+Nokia;1280;Bar;FeaturePhone;2010;100
+Nokia;6010 (6020/6030);Bar;FeaturePhone;2004;75
+Samsung;Galaxy S III and Galaxy S III Mini;Touchscreen;SmartPhone;2012;70
+Samsung;Galaxy S4;Touchscreen;SmartPhone;2013;70
+Nokia;5130 (5220/5310);Bar;FeaturePhone;2007;65
+Apple;iPhone X;Touchscreen;SmartPhone;2017;63
+Apple;iPhone 4S;Touchscreen;SmartPhone;2011;60
+Motorola;StarTAC;Flip phone;FeaturePhone;1996;60
+Motorola;C200;Bar;FeaturePhone;2003;60
+Motorola;C139;Bar;FeaturePhone;2005;60
+Samsung;Galaxy S7 and Galaxy S7 edge;Touchscreen;SmartPhone;2016;55
+Nokia;3100 (3120);Bar;FeaturePhone;2003;50
+Nokia;6230 (6233);Bar;FeaturePhone;2004;50
+Apple;iPhone 4;Touchscreen;SmartPhone;2010;50
+Samsung;Galaxy S6 and Galaxy S6 edge;Touchscreen;SmartPhone;2015;45
+Nokia;N70 (N72/N73);Bar;SmartPhone;2005;45
+Samsung;Galaxy S8 and Galaxy S8+;Touchscreen;SmartPhone;2017;41
+Samsung;Galaxy S II;Touchscreen;SmartPhone;2011;40
+Samsung;Galaxy S10, Galaxy S10+ and Galaxy S10e;Touchscreen;SmartPhone;2019;37
+Samsung;Galaxy S9 and Galaxy S9+;Touchscreen;SmartPhone;2018;35.4
+Nokia;2650;Flip phone;FeaturePhone;2004;35
+Nokia;6300;Bar;FeaturePhone;2006;47
+Apple;iPhone 3GS;Touchscreen;SmartPhone;2009;35
+Huawei;P20, P20 Pro and P20 Lite;Touchscreen;SmartPhone;2018;32
+Samsung;Galaxy A10;Touchscreen;SmartPhone;2019;30.3
+Samsung;E250;Slider;FeaturePhone;2006;30
+LG;KP100;Bar;FeaturePhone;2008;30
+Samsung;Galaxy Note II;Touchscreen;SmartPhone;2012;30
+Nokia;5200 (5300);Slider;FeaturePhone;2006;30
+Xiaomi;Redmi Note 8 and Redmi Note 8 Pro;Touchscreen;SmartPhone;2019;30
+Samsung;Galaxy S20, Galaxy S20+ and Galaxy S20 Ultra;Touchscreen;SmartPhone;2020;28
+Samsung;Galaxy S;Touchscreen;SmartPhone;2010;25
+Samsung;Galaxy Grand Prime Plus;Touchscreen;SmartPhone;2016;24.2
+Samsung;Galaxy A50;Touchscreen;SmartPhone;2019;24.2
+Apple;iPhone SE (2nd generation);Touchscreen;SmartPhone;2020;24.2
+Samsung;Galaxy A51;Touchscreen;SmartPhone;2019;23.2
+Samsung;Galaxy A20;Touchscreen;SmartPhone;2019;23.1
+LG;Chocolate VX8500;Slider;FeaturePhone;2006;21
+Nokia;2100;Bar;FeaturePhone;2003;20
+Xiaomi;Redmi Note 7 and Redmi Note 7 Pro;Touchscreen;SmartPhone;2019;20
+Huawei;P30 and P30 Pro;Touchscreen;SmartPhone;2019;20
+Samsung;Galaxy A21s;Touchscreen;SmartPhone;2020;19.4
+Huawei;Mate 10 and Mate 10 Pro;Touchscreen;SmartPhone;2017;17
+Huawei;Mate 20 and Mate 20 Pro;Touchscreen;SmartPhone;2018;17
+Samsung;Galaxy A01;Touchscreen;SmartPhone;2019;16.9
+HTC;Thunderbolt;Touchscreen;SmartPhone;2011;16
+Huawei;Mate 9;Touchscreen;SmartPhone;2016;15.8
+Samsung;Galaxy A11;Touchscreen;SmartPhone;2020;15.3
+Samsung;Galaxy J2 Core;Touchscreen;SmartPhone;2018;15.2
+Nokia;5610 XpressMusic;Slider;FeaturePhone;2007;15
+Nokia;5800 XpressMusic;Touchscreen;SmartPhone;2008;15
+Nokia;E71;Keyboard bar;SmartPhone;2008;15
+Sony Ericsson;K300 (K310);Bar;FeaturePhone;2004;15
+Sony Ericsson;K750;Bar;FeaturePhone;2005;15
+Sony Ericsson;W800 (W810);Bar;FeaturePhone;2006;15
+Research In Motion (RIM);BlackBerry Pearl;Bar;SmartPhone;2006;15
+Xiaomi;Redmi Note 9 Pro;Touchscreen;SmartPhone;2020;15
+Samsung;Galaxy S21, Galaxy S21+ and Galaxy S21 Ultra;Touchscreen;SmartPhone;2021;13.5
+Motorola;Droid Bionic;Touchscreen;SmartPhone;2011;13
+LG;Cookie (KP500);Touchscreen;FeaturePhone;2009;13
+Huawei;Mate 30 and Mate 30 Pro;Touchscreen;SmartPhone;2019;12
+Samsung;SGH-E700;Flip phone;FeaturePhone;2003;10
+Nokia;N95;Slider;SmartPhone;2007;10
+LG;Shine;Slider;FeaturePhone;2008;10
+Samsung;Star/Tocco Lite (S5230);Touchscreen;FeaturePhone;2009;10
+Samsung;Galaxy Note;Touchscreen;SmartPhone;2011;10
+Xiaomi;Mi 2;Touchscreen;SmartPhone;2012;10
+Samsung;Galaxy Note 3;Touchscreen;SmartPhone;2013;10
+LG;G3;Touchscreen;SmartPhone;2014;10
+Samsung;Galaxy Note 8;Touchscreen;SmartPhone;2017;10
+Xiaomi;Redmi 6A;Touchscreen;SmartPhone;2019;10
+Oppo;A5;Touchscreen;SmartPhone;2019;9.7
+Samsung;Galaxy Note 9;Touchscreen;SmartPhone;2018;9.6
+Samsung;Galaxy A30;Touchscreen;SmartPhone;2019;9.2
+Xiaomi;Redmi 8A;Touchscreen;SmartPhone;2019;7.3
+Oppo;F1 Plus;Touchscreen;SmartPhone;2016;7
+Xiaomi;Redmi 8;Touchscreen;SmartPhone;2019;6.8
+Samsung;Galaxy J4+;Touchscreen;SmartPhone;2018;6.4
+Apple;iPhone;Touchscreen;SmartPhone;2007;6
+LG;Viewty (KU990);Bar;FeaturePhone;2007;5
+Samsung;Galaxy J6+;Touchscreen;SmartPhone;2018;4.9
+Samsung;Galaxy Note 4;Touchscreen;SmartPhone;2014;4.5
+Samsung;Galaxy A10s;Touchscreen;SmartPhone;2019;3.9
+Samsung;Galaxy A30s;Touchscreen;SmartPhone;2019;3.4
+Nokia;N-Gage;Taco;SmartPhone;2003;3
+LG;G2;Touchscreen;SmartPhone;2013;3
+LeTV;LeEco Le 1s;Touchscreen;SmartPhone;2016;3
+Google;Pixel and Pixel XL;Touchscreen;SmartPhone;2016;2.1
+Palm;Centro;Keyboard bar;SmartPhone;2007;2
+Nokia;N97;Tilt slider;SmartPhone;2009;2

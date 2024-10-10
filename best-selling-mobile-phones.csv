@@ -1,78 +1,112 @@
-best-selling-mobile-phones
-manufacturer;model;smartphone;year;units_sold_m;price
-Apple;iPhone 6 and iPhone 6 Plus;Yes;2014;224.0;699
-Apple;iPhone 6S and iPhone 6S Plus;Yes;2015;174.1;749
-Apple;iPhone 5S;Yes;2013;164.5;649
-Apple;iPhone 7 and iPhone 7 Plus;Yes;2016;159.9;769
-Apple;iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max;Yes;2019;159.2;809
-Apple;iPhone XR, iPhone XS and iPhone XS Max;Yes;2018;151.1;849
-Nokia;6600;Yes;2003;150.0;500
-Nokia;5230;Yes;2009;150.0;200
-Apple;iPhone 5;Yes;2012;146.2;649
-Apple;iPhone 8 and iPhone 8 Plus;Yes;2017;124.7;699
-Samsung;Galaxy S III and Galaxy S III Mini;Yes;2012;70.0;599
-Samsung;Galaxy S4;Yes;2013;70.0;649
-Apple;iPhone X;Yes;2017;63.0;999
-Apple;iPhone 4S;Yes;2011;60.0;649
-Samsung;Galaxy S7 and Galaxy S7 edge;Yes;2016;55.0;669
-Apple;iPhone 4;Yes;2010;50.0;599
-Samsung;Galaxy S6 and Galaxy S6 edge;Yes;2015;45.0;699
-Nokia;N70 (N72/N73);Yes;2005;45.0;400
-Samsung;Galaxy S8 and Galaxy S8+;Yes;2017;41.0;799
-Samsung;Galaxy S II;Yes;2011;40.0;649
-Samsung;Galaxy S10, Galaxy S10+ and Galaxy S10e;Yes;2019;37.0;899
-Samsung;Galaxy S9 and Galaxy S9+;Yes;2018;35.4;859
-Apple;iPhone 3GS;Yes;2009;35.0;599
-Huawei;P20, P20 Pro and P20 Lite;Yes;2018;32.0;649
-Samsung;Galaxy A10;Yes;2019;30.3;199
-Samsung;Galaxy Note II;Yes;2012;30.0;649
-Xiaomi;Redmi Note 8 and Redmi Note 8 Pro;Yes;2019;30.0;200
-Samsung;Galaxy S20, Galaxy S20+ and Galaxy S20 Ultra;Yes;2020;28.0;999
-Samsung;Galaxy S;Yes;2010;25.0;599
-Samsung;Galaxy Grand Prime Plus;Yes;2016;24.2;179
-Samsung;Galaxy A50;Yes;2019;24.2;349
-Apple;iPhone SE (2nd generation);Yes;2020;24.2;479
-Samsung;Galaxy A51;Yes;2019;23.2;379
-Samsung;Galaxy A20;Yes;2019;23.1;219
-Xiaomi;Redmi Note 7 and Redmi Note 7 Pro;Yes;2019;20.0;250
-Huawei;P30 and P30 Pro;Yes;2019;20.0;899
-Samsung;Galaxy A21s;Yes;2020;19.4;199
-Huawei;Mate 10 and Mate 10 Pro;Yes;2017;17.0;699
-Huawei;Mate 20 and Mate 20 Pro;Yes;2018;17.0;899
-Samsung;Galaxy A01;Yes;2019;16.9;149
-HTC;Thunderbolt;Yes;2011;16.0;249
-Huawei;Mate 9;Yes;2016;15.8;599
-Samsung;Galaxy A11;Yes;2020;15.3;179
-Samsung;Galaxy J2 Core;Yes;2018;15.2;99
-Nokia;5800 XpressMusic;Yes;2008;15.0;299
-Nokia;E71;Yes;2008;15.0;350
-Research In Motion (RIM);BlackBerry Pearl;Yes;2006;15.0;249
-Xiaomi;Redmi Note 9 Pro;Yes;2020;15.0;270
-Samsung;Galaxy S21, Galaxy S21+ and Galaxy S21 Ultra;Yes;2021;13.5;849
-Motorola;Droid Bionic;Yes;2011;13.0;299
-Huawei;Mate 30 and Mate 30 Pro;Yes;2019;12.0;1099
-Nokia;N95;Yes;2007;10.0;599
-Samsung;Galaxy Note;Yes;2011;10.0;699
-Xiaomi;Mi 2;Yes;2012;10.0;279
-Samsung;Galaxy Note 3;Yes;2013;10.0;749
-LG;G3;Yes;2014;10.0;549
-Samsung;Galaxy Note 8;Yes;2017;10.0;899
-Xiaomi;Redmi 6A;Yes;2019;10.0;99
-Oppo;A5;Yes;2019;9.7;249
-Samsung;Galaxy Note 9;Yes;2018;9.6;999
-Samsung;Galaxy A30;Yes;2019;9.2;249
-Xiaomi;Redmi 8A;Yes;2019;7.3;129
-Oppo;F1 Plus;Yes;2016;7.0;300
-Xiaomi;Redmi 8;Yes;2019;6.8;150
-Samsung;Galaxy J4+;Yes;2018;6.4;169
-Apple;iPhone;Yes;2007;6.0;499
-Samsung;Galaxy J6+;Yes;2018;4.9;179
-Samsung;Galaxy Note 4;Yes;2014;4.5;769
-Samsung;Galaxy A10s;Yes;2019;3.9;169
-Samsung;Galaxy A30s;Yes;2019;3.4;219
-Nokia;N-Gage;Yes;2003;3.0;300
-LG;G2;Yes;2013;3.0;199
-LeTV;LeEco Le 1s;Yes;2016;3.0;249
-Google;Pixel and Pixel XL;Yes;2016;2.1;769
-Palm;Centro;Yes;2007;2.0;199
-Nokia;N97;Yes;2009;2.0;699
+manufacturer,model,form,smartphone,year,units_sold_m
+Nokia,1100,Bar,FeaturePhones,2003,250.0
+Nokia,1110,Bar,FeaturePhones,2005,247.5
+Apple,iPhone 6 and iPhone 6 Plus,Touchscreen,SmartPhones,2014,224.0
+Nokia,"105 (2013), 105 (2015)",Bar,FeaturePhones,2013,200.0
+Apple,iPhone 6S and iPhone 6S Plus,Touchscreen,SmartPhones,2015,174.1
+Apple,iPhone 5S,Touchscreen,SmartPhones,2013,164.5
+Nokia,3210,Bar,FeaturePhones,1999,161.0
+Apple,iPhone 7 and iPhone 7 Plus,Touchscreen,SmartPhones,2016,159.9
+Apple,"iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max",Touchscreen,SmartPhones,2019,159.2
+Apple,"iPhone XR, iPhone XS and iPhone XS Max",Touchscreen,SmartPhones,2018,151.1
+Nokia,6600,Bar,SmartPhones,2003,150.0
+Nokia,1200,Bar,FeaturePhones,2007,150.0
+Nokia,5230,Touchscreen,SmartPhones,2009,150.0
+Samsung,E1100,Bar,FeaturePhones,2009,150.0
+Apple,iPhone 5,Touchscreen,SmartPhones,2012,146.2
+Nokia,2600 (2610/2626/2630),Bar,FeaturePhones,2004,135.0
+Motorola,RAZR V3,Flip phone,FeaturePhones,2004,130.0
+Nokia,1600 (1650/1661),Bar,FeaturePhones,2005,130.0
+Nokia,3310 (3330),Bar,FeaturePhones,2000,126.0
+Apple,iPhone 8 and iPhone 8 Plus,Touchscreen,SmartPhones,2017,124.7
+Nokia,1208 (1209),Bar,FeaturePhones,2007,100.0
+Nokia,1280,Bar,FeaturePhones,2010,100.0
+Nokia,6010 (6020/6030),Bar,FeaturePhones,2004,75.0
+Samsung,Galaxy S III and Galaxy S III Mini,Touchscreen,SmartPhones,2012,70.0
+Samsung,Galaxy S4,Touchscreen,SmartPhones,2013,70.0
+Nokia,5130 (5220/5310),Bar,FeaturePhones,2007,65.0
+Apple,iPhone X,Touchscreen,SmartPhones,2017,63.0
+Apple,iPhone 4S,Touchscreen,SmartPhones,2011,60.0
+Motorola,StarTAC,Flip phone,FeaturePhones,1996,60.0
+Motorola,C200,Bar,FeaturePhones,2003,60.0
+Motorola,C139,Bar,FeaturePhones,2005,60.0
+Samsung,Galaxy S7 and Galaxy S7 edge,Touchscreen,SmartPhones,2016,55.0
+Nokia,3100 (3120),Bar,FeaturePhones,2003,50.0
+Nokia,6230 (6233),Bar,FeaturePhones,2004,50.0
+Apple,iPhone 4,Touchscreen,SmartPhones,2010,50.0
+Samsung,Galaxy S6 and Galaxy S6 edge,Touchscreen,SmartPhones,2015,45.0
+Nokia,N70 (N72/N73),Bar,SmartPhones,2005,45.0
+Samsung,Galaxy S8 and Galaxy S8+,Touchscreen,SmartPhones,2017,41.0
+Samsung,Galaxy S II,Touchscreen,SmartPhones,2011,40.0
+Samsung,"Galaxy S10, Galaxy S10+ and Galaxy S10e",Touchscreen,SmartPhones,2019,37.0
+Samsung,Galaxy S9 and Galaxy S9+,Touchscreen,SmartPhones,2018,35.4
+Nokia,2650,Flip phone,FeaturePhones,2004,35.0
+Nokia,6300,Bar,FeaturePhones,2006,47.0
+Apple,iPhone 3GS,Touchscreen,SmartPhones,2009,35.0
+Huawei,"P20, P20 Pro and P20 Lite",Touchscreen,SmartPhones,2018,32.0
+Samsung,Galaxy A10,Touchscreen,SmartPhones,2019,30.3
+Samsung,E250,Slider,FeaturePhones,2006,30.0
+LG,KP100,Bar,FeaturePhones,2008,30.0
+Samsung,Galaxy Note II,Touchscreen,SmartPhones,2012,30.0
+Nokia,5200 (5300),Slider,FeaturePhones,2006,30.0
+Xiaomi,Redmi Note 8 and Redmi Note 8 Pro,Touchscreen,SmartPhones,2019,30.0
+Samsung,"Galaxy S20, Galaxy S20+ and Galaxy S20 Ultra",Touchscreen,SmartPhones,2020,28.0
+Samsung,Galaxy S,Touchscreen,SmartPhones,2010,25.0
+Samsung,Galaxy Grand Prime Plus,Touchscreen,SmartPhones,2016,24.2
+Samsung,Galaxy A50,Touchscreen,SmartPhones,2019,24.2
+Apple,iPhone SE (2nd generation),Touchscreen,SmartPhones,2020,24.2
+Samsung,Galaxy A51,Touchscreen,SmartPhones,2019,23.2
+Samsung,Galaxy A20,Touchscreen,SmartPhones,2019,23.1
+LG,Chocolate VX8500,Slider,FeaturePhones,2006,21.0
+Nokia,2100,Bar,FeaturePhones,2003,20.0
+Xiaomi,Redmi Note 7 and Redmi Note 7 Pro,Touchscreen,SmartPhones,2019,20.0
+Huawei,P30 and P30 Pro,Touchscreen,SmartPhones,2019,20.0
+Samsung,Galaxy A21s,Touchscreen,SmartPhones,2020,19.4
+Huawei,Mate 10 and Mate 10 Pro,Touchscreen,SmartPhones,2017,17.0
+Huawei,Mate 20 and Mate 20 Pro,Touchscreen,SmartPhones,2018,17.0
+Samsung,Galaxy A01,Touchscreen,SmartPhones,2019,16.9
+HTC,Thunderbolt,Touchscreen,SmartPhones,2011,16.0
+Huawei,Mate 9,Touchscreen,SmartPhones,2016,15.8
+Samsung,Galaxy A11,Touchscreen,SmartPhones,2020,15.3
+Samsung,Galaxy J2 Core,Touchscreen,SmartPhones,2018,15.2
+Nokia,5610 XpressMusic,Slider,FeaturePhones,2007,15.0
+Nokia,5800 XpressMusic,Touchscreen,SmartPhones,2008,15.0
+Nokia,E71,Keyboard bar,SmartPhones,2008,15.0
+Sony Ericsson,K300 (K310),Bar,FeaturePhones,2004,15.0
+Sony Ericsson,K750,Bar,FeaturePhones,2005,15.0
+Sony Ericsson,W800 (W810),Bar,FeaturePhones,2006,15.0
+Research In Motion (RIM),BlackBerry Pearl,Bar,SmartPhones,2006,15.0
+Xiaomi,Redmi Note 9 Pro,Touchscreen,SmartPhones,2020,15.0
+Samsung,"Galaxy S21, Galaxy S21+ and Galaxy S21 Ultra",Touchscreen,SmartPhones,2021,13.5
+Motorola,Droid Bionic,Touchscreen,SmartPhones,2011,13.0
+LG,Cookie (KP500),Touchscreen,FeaturePhones,2009,13.0
+Huawei,Mate 30 and Mate 30 Pro,Touchscreen,SmartPhones,2019,12.0
+Samsung,SGH-E700,Flip phone,FeaturePhones,2003,10.0
+Nokia,N95,Slider,SmartPhones,2007,10.0
+LG,Shine,Slider,FeaturePhones,2008,10.0
+Samsung,Star/Tocco Lite (S5230),Touchscreen,FeaturePhones,2009,10.0
+Samsung,Galaxy Note,Touchscreen,SmartPhones,2011,10.0
+Xiaomi,Mi 2,Touchscreen,SmartPhones,2012,10.0
+Samsung,Galaxy Note 3,Touchscreen,SmartPhones,2013,10.0
+LG,G3,Touchscreen,SmartPhones,2014,10.0
+Samsung,Galaxy Note 8,Touchscreen,SmartPhones,2017,10.0
+Xiaomi,Redmi 6A,Touchscreen,SmartPhones,2019,10.0
+Oppo,A5,Touchscreen,SmartPhones,2019,9.7
+Samsung,Galaxy Note 9,Touchscreen,SmartPhones,2018,9.6
+Samsung,Galaxy A30,Touchscreen,SmartPhones,2019,9.2
+Xiaomi,Redmi 8A,Touchscreen,SmartPhones,2019,7.3
+Oppo,F1 Plus,Touchscreen,SmartPhones,2016,7.0
+Xiaomi,Redmi 8,Touchscreen,SmartPhones,2019,6.8
+Samsung,Galaxy J4+,Touchscreen,SmartPhones,2018,6.4
+Apple,iPhone,Touchscreen,SmartPhones,2007,6.0
+LG,Viewty (KU990),Bar,FeaturePhones,2007,5.0
+Samsung,Galaxy J6+,Touchscreen,SmartPhones,2018,4.9
+Samsung,Galaxy Note 4,Touchscreen,SmartPhones,2014,4.5
+Samsung,Galaxy A10s,Touchscreen,SmartPhones,2019,3.9
+Samsung,Galaxy A30s,Touchscreen,SmartPhones,2019,3.4
+Nokia,N-Gage,Taco,SmartPhones,2003,3.0
+LG,G2,Touchscreen,SmartPhones,2013,3.0
+LeTV,LeEco Le 1s,Touchscreen,SmartPhones,2016,3.0
+Google,Pixel and Pixel XL,Touchscreen,SmartPhones,2016,2.1
+Palm,Centro,Keyboard bar,SmartPhones,2007,2.0
+Nokia,N97,Tilt slider,SmartPhones,2009,2.0
